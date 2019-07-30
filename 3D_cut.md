@@ -44,7 +44,7 @@
 
 如下图所示，图中黑色的线表示截取三维图像的平面
 
-![1](C:\Users\lei_y\Desktop\1.PNG)
+![image](https://github.com/lovvtin/MC_3D_cutter/blob/master/1.PNG)
 
 下图是截取到的乳头体区域切片：
 
