@@ -16,7 +16,7 @@
 
 下图展示的是对allen图谱的重建结果，一共使用了132张切片，可拖动鼠标实现图像旋转，实现任意角度查看图像。
 
-![456](C:\Users\lei_y\Desktop\456.PNG)
+![image](https://github.com/lovvtin/MC_3D_cutter/blob/master/456.PNG)
 
 
 
@@ -24,7 +24,7 @@
 
 下图展示了乳头体区域图谱的重建结果，一共调用了20张切片，
 
-![](C:\Users\lei_y\Desktop\3D.PNG)
+![image](https://github.com/lovvtin/MC_3D_cutter/blob/master/3D.PNG)
 
 ## **3. 获取allen图谱任意角度切片**
 
@@ -32,11 +32,10 @@
 
 如下图所示，图中黑色的线表示截取三维图像的平面
 
-![4654](C:\Users\lei_y\Desktop\4654.PNG)
-
+![image](https://github.com/lovvtin/MC_3D_cutter/blob/master/4654.PNG)
 下图是截取到的切片：
 
-![7987](C:\Users\lei_y\Desktop\7987.PNG)
+![iamge](https://github.com/lovvtin/MC_3D_cutter/blob/master/7987.PNG)
 
 ## 4. 获取乳头体区域谱图任意角度切片
 
@@ -48,5 +47,5 @@
 
 下图是截取到的乳头体区域切片：
 
-![123](C:\Users\lei_y\Desktop\123.PNG)
+![image](https://github.com/lovvtin/MC_3D_cutter/blob/master/123.PNG)
 
