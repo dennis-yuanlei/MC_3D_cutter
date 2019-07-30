@@ -33,7 +33,8 @@
 如下图所示，图中黑色的线表示截取三维图像的平面
 
 ![image](https://github.com/lovvtin/MC_3D_cutter/blob/master/4654.PNG)
-  下图是截取到的切片：
+
+下图是截取到的切片：
 
 ![iamge](https://github.com/lovvtin/MC_3D_cutter/blob/master/7987.PNG)
 
